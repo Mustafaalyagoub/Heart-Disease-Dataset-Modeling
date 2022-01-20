@@ -11,3 +11,6 @@ In this project we will use supervised and unsupervised learning for heart disea
 
 ### Unsupervised Learning:
 1- K-Means Clustering , 2- DB Scan
+
+## Summary:
+Our model has best prediction at around 86% after adjusting the hyperparameters 
